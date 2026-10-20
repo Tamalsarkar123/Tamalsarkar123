@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-![Profile Views](https://countapi.mileshilliard.com/api/v1/hit/tamalsarkar123-profile-views)
+![Profile views](https://YOUR-DEPLOYMENT.vercel.app/api/views?id=tamalsarkar123)
 
 <p align="left"> <a href="https://twitter.com/tamal sarkar" target="blank"><img src="https://img.shields.io/twitter/follow/tamal sarkar?logo=twitter&style=for-the-badge" alt="tamal sarkar" /></a> </p>
 
